@@ -1,16 +1,5 @@
-## Info 
-Pay :- ₹ 100 For India Users https://imjo.in/QDdBze for getting database scripts.
+# ASP.Net Core + Angular 7 App
 
-Pay :- $ 3.00 here https://payhip.com/b/vJ1L for getting database scripts.
-
-
-# ASPNET-Core-Angular-7-Project
-
-<img src="https://github.com/saineshwar/Angular-7-Project-with-ASP.NET-CORE-APIS-/blob/master/Images/banner.png?raw=true" alt="Banner" title="Banner" style="max-width:100%;">
-
-
-## If you are new to Angular Must Watch Video How to Learn Angular in 1 hour
-[![Learn Angular](https://github.com/saineshwar/ASPNET-Core-Angular-7-Project/blob/master/Images/hqdefault.jpg)](https://www.youtube.com/watch?v=FV2MXOygDTM "Learn Angular")
 ## Getting Started
 
 This project contains good features which are required in all project which are developed in industries nowadays.
@@ -28,10 +17,6 @@ If you see User end where a User is a person who does work of registration of ne
 The project has 2 parts 
 1.	ASP.NET Core with Angular CLI
 2.	SQL server for database parts
-
-
-### Download Database of Project
-Link to download :- https://payhip.com/b/vJ1L
 
 ### About Platform Used 
 Angular Version Used 7.0.4 and CLI version 7.0.6
